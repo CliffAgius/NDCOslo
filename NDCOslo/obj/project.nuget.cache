@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1zOL0mffOMP943H7djf1P7vwMSpjmyCVr6J0jSEpLnJdz1I7FTw5jlmFg0By1XcWpdV4wovnZ0fsRzfQ7+AAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cliff\\source\\repos\\NDCOslo\\NDCOslo\\NDCOslo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cliff\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\resizetizer.nt\\0.1.0\\resizetizer.nt.0.1.0.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\xamarin.forms\\4.7.0.848-pre3\\xamarin.forms.4.7.0.848-pre3.nupkg.sha512"
+  ],
+  "logs": []
+}

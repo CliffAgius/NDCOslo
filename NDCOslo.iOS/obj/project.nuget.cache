@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm5hhon312o2IGYLR0ASuKh7sZzGAtYSReC7Rg2tfl3Le7459n7GjVqLKVsupdbpc0Wh8ReUeyZD/pDAolsY6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cliff\\source\\repos\\NDCOslo\\NDCOslo.iOS\\NDCOslo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cliff\\.nuget\\packages\\resizetizer.nt\\0.1.0\\resizetizer.nt.0.1.0.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\cliff\\.nuget\\packages\\xamarin.forms\\4.7.0.848-pre3\\xamarin.forms.4.7.0.848-pre3.nupkg.sha512"
+  ],
+  "logs": []
+}
