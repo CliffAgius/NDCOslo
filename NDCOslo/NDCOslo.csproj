@@ -6,7 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\materialdesignicons-webfont.ttf" />
     <None Remove="Images\NDCLogo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\materialdesignicons-webfont.ttf" />
   </ItemGroup>
 
   <ItemGroup>

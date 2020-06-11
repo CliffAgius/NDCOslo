@@ -48,7 +48,13 @@
         <Tab Title="Browse" Icon="tab_feed.png">
             <ShellContent ContentTemplate="{DataTemplate local:ItemsPage}" />
         </Tab>
-        <Tab Title="NDC Oslo" Icon="tab_about.png">
+        <Tab Title="NDC Oslo">
+            <Tab.Icon>
+                <FontImageSource
+                    FontFamily="MDI"
+                    Glyph="&#xF0846;"
+                    Color="Blue" />
+            </Tab.Icon>
             <ShellContent ContentTemplate="{DataTemplate local:NDCOslo}" />
         </Tab>
     </FlyoutItem>
